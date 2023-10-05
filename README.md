@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Kevin Muñoz from Medellín, Antioquia<br><br>- :school: I am a software developer and administrative manager.<br>- 📚 I'm currently learning Javascript and its framework Node.js and React.js, also some of Docker.<br>- ⚡ In my free time I like to play video games and Play sports like soccer or exercise, Also learn new skills both as soft skills and software skills.</p>
+<p align="left">I'm Kevin Muñoz from Medellín, Antioquia<br><br>- :school: I am a software developer and administrative manager.<br>- 📚 I'm currently learning Javascript and python its framework Node.js, django, flask and React.js, also some of Docker.<br>- ⚡ In my free time I like to play video games and Play sports like soccer or exercise, Also learn new skills both as soft skills and software skills.</p>
 
 ###
 
